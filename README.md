@@ -1,4 +1,4 @@
-# dl-from-scratch
+# dl-from-scratch-vol1
 
 My study log for **『ゼロから作る Deep Learning』**
 (*Deep Learning from Scratch* ❶, O'Reilly Japan, by Koki Saitoh).
